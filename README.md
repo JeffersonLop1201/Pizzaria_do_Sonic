@@ -1,1 +1,1 @@
-![Terminal](file:///C:/Users/Alunos/Desktop/loginapppizza/assets/Tela.png)
+![Terminal]([file:///C:/Users/Alunos/Desktop/loginapppizza/assets/Tela.png](https://github.com/JeffersonLop1201/Pizzaria_do_Sonic/issues/1#issue-1920046718)https://github.com/JeffersonLop1201/Pizzaria_do_Sonic/issues/1#issue-1920046718)
